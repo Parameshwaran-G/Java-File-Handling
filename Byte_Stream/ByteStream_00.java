@@ -9,10 +9,10 @@ public class ByteStream_00 {
 
             byte[] buffer = new byte[1024];
 
-            int line = input_file.read(buffer);
-            while(line != -1){
-                output_file.write(buffer);
-                line = input_file.read(buffer);
+            int bytes = input_file.read(buffer);
+            while(bytes != -1){
+                output_file.write(buffer,0,bytes);
+                bytes = input_file.read(buffer);
             }
             
         } 
