@@ -1,0 +1,7 @@
+# Compiled Java files
+*.class
+out/
+build/
+
+# IDE files (optional, depending on your workflow)
+.idea/

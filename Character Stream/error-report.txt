@@ -1,0 +1,3 @@
+ERROR: Invalid student ID
+ERROR: Database connection failed
+ERROR: Student not found

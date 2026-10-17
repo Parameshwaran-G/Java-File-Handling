@@ -1,0 +1,2 @@
+201,Arun,20,CSE
+202,Divya,22,ECE

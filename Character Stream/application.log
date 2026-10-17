@@ -1,0 +1,8 @@
+INFO: Application started
+ERROR: Database connection failed
+INFO: Retrying connection
+ERROR: Invalid student ID
+ERROR: Database connection failed
+WARNING: Retry limit approaching
+ERROR: Student not found
+ERROR: Invalid student ID
